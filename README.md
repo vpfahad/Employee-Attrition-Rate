@@ -5,3 +5,4 @@ Dataset
 =======
 
 Input folder contain the dataset
+(change the dataset path to this folder in your programme file)
